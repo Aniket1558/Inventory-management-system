@@ -1,0 +1,18 @@
+1.Add 2.Sell 3.View 4.Exit
+1
+ID: 01
+Name: Hritik
+Quantity: 5
+
+1.Add 2.Sell 3.View 4.Exit
+2
+Product ID: 01
+Sell Quantity: 2
+Sold Successfully
+
+1.Add 2.Sell 3.View 4.Exit
+3
+1 | Hritik | Stock: 3
+
+1.Add 2.Sell 3.View 4.Exit
+4
